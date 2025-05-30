@@ -30,5 +30,8 @@ This project showcases the integration of component-based development using Reac
 
 Overall, this E-learning platform serves as a foundational project for building modern, user-friendly educational web applications. It emphasizes modularity, responsiveness, and ease of use, making it a strong example of combining React and Tailwind CSS for interactive front-end development.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/4a5715e8-ee2d-4122-bba0-0c9a619a725c)
 
 
